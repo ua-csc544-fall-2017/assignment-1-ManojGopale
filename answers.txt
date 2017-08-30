@@ -28,10 +28,10 @@ aspect against other nations over a period of 10-20 years and you can make clear
 deductions on the data by just visualising the data.
 
 8. I think the worst visualisation is the one I saw in an article showing 
-criminal activities in Tucson. It had a map and the dot marhers showing where there
-were activities reorted in the last month, but when you zoomed out the dots would 
+criminal activities in Tucson. It had a map and the dot markers showing where there
+were activities reported in the last month, but when you zoomed out the dots would 
 cover the entire area on Tucson and it was hard to locate places where it actually was
-reported. So I could not get an clear picture of criminal activities on the website.
+reported. It became tedious and cluttered, which made it a bad visualisation.
 
 9. 75% I think, given most of the folks are fairly new to HTML, CSS , javascript and d3.
 
@@ -47,5 +47,3 @@ reported. So I could not get an clear picture of criminal activities on the webs
 being different with similar statistical summaries. I am still waiting to see the Game 
 of Thrones season finale , so that or maybe theories on how the series will end 
 and who will sit on the iron throne / how the knight king will die.
-
-8. 
