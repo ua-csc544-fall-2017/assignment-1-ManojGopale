@@ -1,0 +1,51 @@
+1. Data Visualisation is a cool course covering lot of material on data visuals 
+and the theory behind it as well. I think, I will be able to present data more
+efficiently after this course.
+
+2. I think I will be learning a lot of HTML, CSS, javascript and d3.
+I hope to be able to convey databases in an efficient and visually captivating way
+after this class.
+
+3. I am comfortable with C, C++, I have coded in javascript for an earlier course here
+in Model Integrated Computing. I also have experience in Matlab, python and R.
+I have also coded in tcl and perl scriptig.
+
+4. I am most comfortable with C.
+
+5. Yes I have created data visualisations, many were for my assignments in machine learning
+course, where we had to show scatter plots of dataset, validation curves, plots showing 
+data points and decision boundary. Earlier I have made presentations showing bar diagram,
+pie charts to compare different entities.
+
+6. I have worked on a dataset with 16,00,000 data enteries, it was a dataset of patients
+admitted in the ICU for TBI (Traumatic Brain Injury). We had to mine the data to find 
+the connection between age and endocrine diseases after they were admitted for TBI.
+I used python and R to mine and analyze the dataset.
+
+7. I think the visualization in the TED talk 'the best statistics yu have ever seen', 
+is my favourite visualisation so far, since it shows the trends in a particular social 
+aspect against other nations over a period of 10-20 years and you can make clear 
+deductions on the data by just visualising the data.
+
+8. I think the worst visualisation is the one I saw in an article showing 
+criminal activities in Tucson. It had a map and the dot marhers showing where there
+were activities reorted in the last month, but when you zoomed out the dots would 
+cover the entire area on Tucson and it was hard to locate places where it actually was
+reported. So I could not get an clear picture of criminal activities on the website.
+
+9. 75% I think, given most of the folks are fairly new to HTML, CSS , javascript and d3.
+
+10. 90% I think.
+
+11. No I have never used version control before, it will be a new thing for me.
+
+12. No experience.
+
+13. No experience.
+
+14. Intersting thing was the article which was discused in class about different datasets
+being different with similar statistical summaries. I am still waiting to see the Game 
+of Thrones season finale , so that or maybe theories on how the series will end 
+and who will sit on the iron throne / how the knight king will die.
+
+8. 
